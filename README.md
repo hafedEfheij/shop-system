@@ -1,2 +1,2 @@
 # shop-project
-Using Visual basic
+Using Visual basic programming language  
