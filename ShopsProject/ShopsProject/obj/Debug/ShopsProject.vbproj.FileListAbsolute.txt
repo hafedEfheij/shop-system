@@ -1,0 +1,15 @@
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\bin\Debug\ShopsProject.exe.config
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\bin\Debug\ShopsProject.exe
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\bin\Debug\ShopsProject.pdb
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\bin\Debug\ShopsProject.xml
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.vbprojAssemblyReference.cache
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.Frmlogin.resources
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.Resources.resources
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.vbproj.GenerateResource.cache
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.vbproj.CoreCompileInputs.cache
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.exe
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.xml
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.pdb
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.Frmitems.resources
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.Frmorder.resources
+C:\Users\DELL\Desktop\vb.net\ShopsProject\ShopsProject\obj\Debug\ShopsProject.FrmView.resources
